@@ -12,7 +12,7 @@ From the command line or terminal:
 * Frontend: `<extracted folder>/web$ npm install & npm run build`
 * Backend `<extracted folder>/$ gradle build`
 * To run the application `java -jar build/libs/upload-0.1.jar`
-Then you can point your browser to `http://localhost:8080/` to use the application.
+Then you can point your browser to `http://localhost:8080/` to view the application.
 
 
 ## Design Considerations
