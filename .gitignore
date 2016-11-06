@@ -1,0 +1,9 @@
+/target
+/build
+/.idea
+/.gradle
+/node_modules
+/web/node_modules
+.DS_Store
+/out
+/gradle

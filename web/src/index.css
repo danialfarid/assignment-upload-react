@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+form input[type=text] {
+    width: 400px;
+    margin: 5px;
+}
+
+form span {
+    width: 110px;
+    display: inline-block;
+}
+
+.list, form {
+    float: left;
+}
+.list {
+    padding: 15px;
+    border: 1px solid #DDDDDD;
+    margin-left: 15px;
+    width: 700px;
+}
+.list button {
+    margin-left: 20px;
+}
